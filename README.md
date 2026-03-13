@@ -1,1 +1,17 @@
-"# battery-hub-boss-public" 
+# Battery Hub 老板阅读版
+
+这是 Battery Hub 项目的老板阅读版仓库。
+
+用途：
+
+- 给老板看
+- 给潜在客户看
+- 给外部展示看
+
+文档入口：
+
+- `docs/index.md`
+
+说明：
+
+本仓库只放对外可展示内容，不放内部开发资料。
